@@ -8,7 +8,7 @@ categories: jekyll update
 
 - Write and maintain documentation for our software and blog posts for our website.
 
-(Since I used to work as an editorial intern for a money-saving blog called The Penny Hoarder (https://www.thepennyhoarder.com). Plus, I really enjoy writing!)
+(Since I used to work as an editorial intern for a money-saving blog called The Penny Hoarder https://www.thepennyhoarder.com. Plus, I really enjoy writing!)
 
 - Work with prospective customers to explain our service and the pricing model
 
