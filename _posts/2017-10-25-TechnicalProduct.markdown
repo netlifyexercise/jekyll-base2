@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Technical/developer-focused Product That I Think is Well-done"
+title:  "A Technical/Developer-Focused Product That I Think is Well-done"
 date:   2017-10-25 13:46:40
 categories: jekyll update
 ---
