@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Why I Think SSL/HTTPS is Important"
+date:   2017-10-25 13:46:40
+categories: jekyll update
+---
+
+SSL is important for a few different reasons. It encrypts sensitive information so that only the receiving computer can understand the encryption. It provides authentication so that you know you aren't unknowingly sending information to an imposter. In order to receive an SSL certificate, the receiving computer needs to go through a series of identity checks. Lastly, it provides trust. Trusted websites typically display an icon (ex: lock) that tells other computers that their connection is secured. Basically, HTPS is HTPP with SSL
